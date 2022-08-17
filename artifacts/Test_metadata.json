@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.15+commit.e14f2714"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "calc_disp",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Test.sol": "Test"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Test.sol": {
+			"keccak256": "0x3ea719686430a3393b4cec1016536e44b123cdd3da6b6ed42cd55adb07c0b3cc",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://76899ac16f1041630befae15485ecfd8ba01d55ac686aa728c16159956d8ebc8",
+				"dweb:/ipfs/QmPaBpnsrQyshMSqM7DVQhnGja28qUdjepdVTctHYASZpL"
+			]
+		}
+	},
+	"version": 1
+}

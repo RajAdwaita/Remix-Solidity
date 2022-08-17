@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.16+commit.07a7930e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"SolidityCodes/SendETH.sol": "etherSending"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"SolidityCodes/SendETH.sol": {
+			"keccak256": "0xe0c093d73a9b8212677734acfd54c94fc9fc5c44b433dae064c09b6d5e6a55a8",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://d19c19859234540116b984405847536509696376510511a9dbfafc8fccc0d6a5",
+				"dweb:/ipfs/QmSC6sTYun87dKS6eZefTivPUNbZsHUkJwKicpwpz2CxGu"
+			]
+		}
+	},
+	"version": 1
+}

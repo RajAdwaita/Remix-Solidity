@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.15+commit.e14f2714"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "task",
+				"outputs": [],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"WhileLoop.sol": "Loop"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"WhileLoop.sol": {
+			"keccak256": "0x958aab91f37582c4f152a3e956b6b32c688f9940ed53a6bf64fa45a47adcc936",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://5e07a06302c5f5ec94334f439718c1e52128079a17d4777a0b4b039a43214cd3",
+				"dweb:/ipfs/QmdJRP9UZZ2iLN4aiZqQnnd4PPADs4ShtCkzxbiqK777Ci"
+			]
+		}
+	},
+	"version": 1
+}
