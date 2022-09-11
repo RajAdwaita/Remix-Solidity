@@ -6,12 +6,10 @@ contract Variables2 {
 
     }
     function getResult() public pure returns(uint){
-        uint a=1;
-        uint b=2;
+        uint a=54;
+        uint b=267;
         uint c=a+b;
         return c;
     }
-  
 
-    
 }
